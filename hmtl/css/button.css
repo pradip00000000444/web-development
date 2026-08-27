@@ -1,11 +1,10 @@
-<style>
-  .subscibe {
+.subscibe {
     background-color: rgb(200, 7, 7);
     color: white;
     border: none;
     padding-top:5px;
     padding-bottom:5px;
-    border-radius: 2px;
+    border-radius: 2px ;
     cursor: pointer;
     margin-right: 8px;
     transition: 0.3s;
@@ -61,17 +60,3 @@
 .lala:hover {
   box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.3);
 }
-</style>
-
-
-<button class="subscibe">
-  SUBSCRIBE
-</button>
-
-<button class ="okay">
-  JOIN
-</button> 
-
-<button class="lala">
-  Tweet
-</button>
